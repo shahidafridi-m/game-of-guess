@@ -6,7 +6,7 @@ This is a guessing game based on random numbers and will progress through a seri
 
 ## Demo
 
-![Guess The Number](https://github.com/favrora/Splash-Task/blob/master/demo.jpg?raw=true)
+![Guess The Number](/demo.jpg)
 
 ### Built With
 
@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/favrora/Splash-Task.git
+   git clone https://github.com/shahidafridi-m/web-guessing-game.git
    ```
 2. From the root, install NPM packages
    ```sh
